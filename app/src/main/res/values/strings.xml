@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyChat2</string>
+    <string name="Send">SEND</string>
+    <string name="Hint">Enter Your Message Here</string>
+    <string name="message_received">Message Received!</string>
+    <string name="reply">REPLY</string>
+    <string name="Hint_reply">Enter your Reply Here</string>
+    <string name="repply_received">Repply Received!</string>
+</resources>
